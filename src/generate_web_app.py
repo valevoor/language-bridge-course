@@ -16,6 +16,7 @@ def generate_html_app(
 ):
     if output_html_paths is None:
         output_html_paths = [
+            "/Users/vishwa/Dev/language-bridge-course/index.html",
             "/Users/vishwa/Dev/language-bridge-course/src/web/index.html",
             "/Users/vishwa/Dev/language-bridge-course/target/index.html"
         ]

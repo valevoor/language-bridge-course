@@ -68,6 +68,7 @@ def run_pipeline(
     print("\n[Step 4/4] Generating Updated Interactive HTML Teaching Web Application...")
     json_path = exported_files["json"]
     web_paths = [
+        "/Users/vishwa/Dev/language-bridge-course/index.html",
         os.path.join(target_dir, "index.html"),
         "/Users/vishwa/Dev/language-bridge-course/src/web/index.html"
     ]
